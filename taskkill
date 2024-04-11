@@ -1,0 +1,2 @@
+taskkill /F /IM MacroRecorder.exe
+taskkill /F /IM chrome.exe
