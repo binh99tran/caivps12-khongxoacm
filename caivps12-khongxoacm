@@ -1,0 +1,354 @@
+WAIT FOR : may : appear : 15000 : 0
+MOVE WINDOW : may : 0 : 0 : 0 : 108 : 834 : 1189
+DELAY : 1100
+Mouse : 507 : 421 : Click : 0 : 0 : 0
+DELAY : 2000
+Mouse : 276 : 130 : Click : 0 : 0 : 0
+DELAY : 1100
+Mouse : 409 : 198 : Click : 0 : 0 : 0
+DELAY : 1100
+WAIT FOR : Earn : appear : 10000 : 0
+DELAY : 4500
+IF WINDOW EXISTS : earn : 0
+IF FILE EXISTS : C:\xemkochaycommment.txt
+DELAY : 100
+Mouse : 86 : 772 : Click : 0 : 0 : 0
+DELAY : 4100
+IF IMAGE : Qk0GAwAAAAAAADYAAAAoAAAADwAAAAwAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA7vDx/+7w8f/u8PH/1dfX/7e4uP+rq6v/qqqq/6qqqv+rq6v/t7i4/9XX1//u8PH/7vDx/+7w8f/u8PH/7vDx/+vt7v/Cw8P/qqqq/6qqqv+vsLD/urq6/7q6uv+vsLD/qqqq/6qqqv/AwMD/6+3u/+7w8f/u8PH/7vDx/8XFxv+qqqr/srKy/9vc3f/u8PH/7vDx/+7w8f/u8PH/29zd/7Kysv+qqqr/xcXG/+7w8f/u8PH/7vDx/8XGx/+4uLn/5ebn/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+Xm5/+4uLj/x8jI/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/d3t//w8TE/93e3//u8PH/7vDx/+7w8f/u8PH/3d7f/8PExP/d3t//7vDx/+7w8f/u8PH/7vDx/+rr7P+3uLj/qqqq/7e4uP/q6+z/7vDx/+7w8f/q6+z/t7i4/6qqqv+3uLj/6uvs/+7w8f/u8PH/7vDx/+7w8f/ExMX/qqqq/8TExf/u8PH/7vDx/+7w8f/u8PH/xMTF/6qqqv/ExMX/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/ : 0 : 0 : 0 : 430;713;183;170
+DELAY : 100
+Mouse : 86 : 810 : Click : 0 : 0 : 0
+DELAY : 4100
+IF IMAGE : Qk0GAwAAAAAAADYAAAAoAAAADwAAAAwAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA7vDx/+7w8f/u8PH/1dfX/7e4uP+rq6v/qqqq/6qqqv+rq6v/t7i4/9XX1//u8PH/7vDx/+7w8f/u8PH/7vDx/+vt7v/Cw8P/qqqq/6qqqv+vsLD/urq6/7q6uv+vsLD/qqqq/6qqqv/AwMD/6+3u/+7w8f/u8PH/7vDx/8XFxv+qqqr/srKy/9vc3f/u8PH/7vDx/+7w8f/u8PH/29zd/7Kysv+qqqr/xcXG/+7w8f/u8PH/7vDx/8XGx/+4uLn/5ebn/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+Xm5/+4uLj/x8jI/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/d3t//w8TE/93e3//u8PH/7vDx/+7w8f/u8PH/3d7f/8PExP/d3t//7vDx/+7w8f/u8PH/7vDx/+rr7P+3uLj/qqqq/7e4uP/q6+z/7vDx/+7w8f/q6+z/t7i4/6qqqv+3uLj/6uvs/+7w8f/u8PH/7vDx/+7w8f/ExMX/qqqq/8TExf/u8PH/7vDx/+7w8f/u8PH/xMTF/6qqqv/ExMX/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/ : 0 : 0 : 0 : 430;713;183;170
+DELAY : 100
+Mouse : 85 : 855 : Click : 0 : 0 : 0
+DELAY : 4100
+ENDIF
+ENDIF
+ENDIF
+ENDIF
+IF WINDOW EXISTS : earn : 0
+IF IMAGE : Qk0GAwAAAAAAADYAAAAoAAAADwAAAAwAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA7vDx/+7w8f/u8PH/1dfX/7e4uP+rq6v/qqqq/6qqqv+rq6v/t7i4/9XX1//u8PH/7vDx/+7w8f/u8PH/7vDx/+vt7v/Cw8P/qqqq/6qqqv+vsLD/urq6/7q6uv+vsLD/qqqq/6qqqv/AwMD/6+3u/+7w8f/u8PH/7vDx/8XFxv+qqqr/srKy/9vc3f/u8PH/7vDx/+7w8f/u8PH/29zd/7Kysv+qqqr/xcXG/+7w8f/u8PH/7vDx/8XGx/+4uLn/5ebn/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+Xm5/+4uLj/x8jI/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/d3t//w8TE/93e3//u8PH/7vDx/+7w8f/u8PH/3d7f/8PExP/d3t//7vDx/+7w8f/u8PH/7vDx/+rr7P+3uLj/qqqq/7e4uP/q6+z/7vDx/+7w8f/q6+z/t7i4/6qqqv+3uLj/6uvs/+7w8f/u8PH/7vDx/+7w8f/ExMX/qqqq/8TExf/u8PH/7vDx/+7w8f/u8PH/xMTF/6qqqv/ExMX/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/ : 0 : 0 : 0 : 430;713;183;170
+DELAY : 50
+DELAY : 500
+Mouse : 127 : 318 : Click : 0 : 0 : 0
+DELAY : 3500
+IF IMAGE : Qk0GAQAAAAAAADYAAAAoAAAADQAAAAQAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA//////////////////////////////////////////////////////////////////////GWK//xliv/8ZYr//GWK//xliv/8ZYr//GWK//xliv/8ZYr//GWK//xliv/8ZYr//GWK////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////w== : 1 : 0 : 0 : 301;600;188;192
+DELAY : 50
+Mouse : 0 : 0 : Click : 0 : 1 : 0
+DELAY : 2000
+Mouse : 536 : 281 : Click : 0 : 0 : 0
+DELAY : 50
+Keyboard : Enter : KeyPress
+DELAY : 6000
+ENDIF
+ENDIF
+ENDIF
+IF IMAGE : Qk1mAAAAAAAAADYAAAAoAAAAAwAAAAQAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA8ZYr//GWK//xliv/8ZYr//GWK//xliv/8ZYr//GWK//xliv/8ZYr//GWK//xliv/ : 0 : 0 : 0 : 637;721;108;93
+DELAY : 500
+Mouse : 127 : 318 : Click : 0 : 0 : 0
+DELAY : 3500
+IF IMAGE : Qk1mAAAAAAAAADYAAAAoAAAAAwAAAAQAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA/////1y4XP///////////1y4XP///////////1y4XP///////////1y4XP////// : 1 : 0 : 0 : 312;594;199;203
+DELAY : 50
+Mouse : C-150 : C-10 : Click : 0 : 0 : 0
+DELAY : 9000
+IF IMAGE : Qk3WAAAAAAAAADYAAAAoAAAACAAAAAUAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA8vLy//Ly8v+cnJz/HR0d/zk5Of/j4+P/8vLy//Ly8v/y8vL/nJyc/zk5Of/j4+P/ZGRk/zk5Of/j4+P/8vLy/5ycnP85OTn/4+Pj//Ly8v/y8vL/ZGRk/zk5Of/j4+P/OTk5/+Pj4//y8vL/8vLy//Ly8v/y8vL/ZGRk/zk5Of/j4+P/8vLy//Ly8v/y8vL/8vLy//Ly8v/y8vL/ZGRk/w== : 0 : 5 : 0 : 59;273;720;299
+DELAY : 50
+Mouse : 760 : 247 : Click : 0 : 0 : 0
+DELAY : 3000
+IF IMAGE : Qk1WAQAAAAAAADYAAAAoAAAACQAAAAgAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA/////8/Pz/8SEhL/oKCg///////////////////////////////////////Pz8//EhIS/6CgoP//////////////////////////////////////z8/P/xISEv+goKD//////////////////////////////////////8/Pz/8SEhL/oKCg/////////////////////////////////6CgoP8SEhL/z8/P////////////////////////////oKCg/xISEv/Pz8////////////////////////////+goKD/EhIS/8/Pz////////////////////////////6CgoP8SEhL/z8/P//////////////////////////// : 1 : 0 : 0 : 759;335;68;237
+DELAY : 100
+Mouse : 0 : 0 : Click : 0 : 1 : 0
+DELAY : 4000
+Mouse : 711 : 602 : Click : 0 : 0 : 0
+DELAY : 4000
+ENDIF
+ENDIF
+IF IMAGE : Qk22AAAAAAAAADYAAAAoAAAACAAAAAQAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAADw8P/w8PD/8PDw//Dw8P/w8PD/8PDw//Dw8P/w8PD/8PDw//Dw8P/w8PD/8PDw//Dw8P/w8PD/8PDw//Dw8P/w8PD/8PDw//Dw8P/w8PD/8PDw//Dw8P/w8PD/8PDw//Dw8P/w8PD/8PDw//Dw8P/w8PD/8PDw//Dw8P/w8PD/8= : 0 : 0 : 0 : 59;273;720;299
+DELAY : 50
+Mouse : 760 : 247 : Click : 0 : 0 : 0
+DELAY : 3000
+IF IMAGE : Qk1WAQAAAAAAADYAAAAoAAAACQAAAAgAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA/////8/Pz/8SEhL/oKCg///////////////////////////////////////Pz8//EhIS/6CgoP//////////////////////////////////////z8/P/xISEv+goKD//////////////////////////////////////8/Pz/8SEhL/oKCg/////////////////////////////////6CgoP8SEhL/z8/P////////////////////////////oKCg/xISEv/Pz8////////////////////////////+goKD/EhIS/8/Pz////////////////////////////6CgoP8SEhL/z8/P//////////////////////////// : 1 : 0 : 0 : 759;335;68;237
+DELAY : 100
+Mouse : 0 : 0 : Click : 0 : 1 : 0
+DELAY : 4000
+Mouse : 711 : 602 : Click : 0 : 0 : 0
+DELAY : 4000
+ENDIF
+ENDIF
+Mouse : 588 : 132 : Click : 0 : 0 : 0
+DELAY : 2500
+Mouse : 606 : 234 : Click : 0 : 0 : 0
+DELAY : 2500
+ENDIF
+ENDIF
+IF WINDOW EXISTS : earn : 0
+IF IMAGE : Qk0GAwAAAAAAADYAAAAoAAAADwAAAAwAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA7vDx/+7w8f/u8PH/1dfX/7e4uP+rq6v/qqqq/6qqqv+rq6v/t7i4/9XX1//u8PH/7vDx/+7w8f/u8PH/7vDx/+vt7v/Cw8P/qqqq/6qqqv+vsLD/urq6/7q6uv+vsLD/qqqq/6qqqv/AwMD/6+3u/+7w8f/u8PH/7vDx/8XFxv+qqqr/srKy/9vc3f/u8PH/7vDx/+7w8f/u8PH/29zd/7Kysv+qqqr/xcXG/+7w8f/u8PH/7vDx/8XGx/+4uLn/5ebn/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+Xm5/+4uLj/x8jI/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/d3t//w8TE/93e3//u8PH/7vDx/+7w8f/u8PH/3d7f/8PExP/d3t//7vDx/+7w8f/u8PH/7vDx/+rr7P+3uLj/qqqq/7e4uP/q6+z/7vDx/+7w8f/q6+z/t7i4/6qqqv+3uLj/6uvs/+7w8f/u8PH/7vDx/+7w8f/ExMX/qqqq/8TExf/u8PH/7vDx/+7w8f/u8PH/xMTF/6qqqv/ExMX/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/ : 0 : 0 : 0 : 430;713;183;170
+DELAY : 50
+DELAY : 500
+DELAY : 1000
+OPEN FILE : C:\aviso\chaynext.ahk :  : 1
+DELAY : 10000
+ENDIF
+ENDIF
+IF IMAGE : Qk32AAAAAAAAADYAAAAoAAAACAAAAAYAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA8/X2//P19v/z9fb/8/X2//P19v/z9fb/8/X2//P19v/z9fb/8/X2//P19v/z9fb/8/X2//P19v/z9fb/8/X2//P19v/z9fb/8/X2//P19v/z9fb/8/X2//P19v/z9fb/8/X2//P19v/z9fb/8/X2//P19v/z9fb/8/X2//P19v/z9fb/8/X2//P19v/z9fb/8/X2//P19v/z9fb/8/X2//P19v/z9fb/8/X2//P19v/z9fb/8/X2//P19v/z9fb/ : 0 : 0 : 0 : 537;750;47;23
+DELAY : 500
+DELAY : 1000
+OPEN FILE : C:\aviso\chaynext.ahk :  : 1
+DELAY : 10000
+ENDIF
+IF IMAGE : Qk3GAgAAAAAAADYAAAAoAAAAKQAAAAQAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA///////////v7+//b29v/1VVVf9VVVX/VVVV/1VVVf+1tbX///////f39/+Ghob/tbW1///////Pz8//YmJi/9/f3//39/f/hoaG/7W1tf/f39//b29v/9/f3//39/f/hoaG/7W1tf//////z8/P/2JiYv/f39//39/f/3t7e//v7+//7+/v/4aGhv97e3v/7+/v/+/v7/97e3v/39/f/////////////////+/v7/9vb2//z8/P/////////////////////////////////+/v7/9vb2//VVVV/1VVVf/Pz8////////f39/+Ghob/tbW1/9/f3/9vb2//39/f///////v7+//b29v/1VVVf9VVVX/z8/P//////+1tbX/mpqa////////////mpqa/5qamv///////////5qamv+1tbX/////////////////7+/v/29vb//Pz8//////////////////////////////////////////////////////////////////9/f3/4aGhv+1tbX/39/f/29vb//f39/////////////////////////////////////////////////////////////////////////////////////////////////////////////v7+//b29v/8/Pz//////////////////////////////////////////////////////////////////39/f/hoaG/7W1tf/f39//b29v/9/f3/////////////////////////////////////////////////////////////////////////////////////////////////8= : 0 : 0 : 0 : 306;720;106;559
+DELAY : 500
+Mouse : 277 : 333 : Click : 0 : 0 : 0
+DELAY : 1100
+Mouse : 646 : 666 : Click : 0 : 0 : 0
+DELAY : 6000
+ENDIF
+IF IMAGE : Qk0CBAAAAAAAADYAAAAoAAAAGwAAAAkAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////tbW1/2JiYv/f39//////////////////mpqa/5qamv////////////f39/+Ghob/VVVV/2JiYv+/v7//b29v/9/f3///////mpqa/1VVVf+1tbX//////9/f3/9iYmL/VVVV/1VVVf/Pz8//o6Oj/5CQkP/Pz8/////////////39/f/kJCQ/4aGhv/v7+///////8/Pz/9iYmL/39/f//f39/+Ghob/b29v/+/v7//v7+//b29v/8/Pz///////7+/v/29vb//Pz8///////9/f3/9vb2//hoaG/7+/v/+ampr////////////f39//kJCQ/5qamv/f39///////8/Pz/9vb2//7+/v///////Pz8//b29v/+/v7//v7+//b29v/8/Pz///////z8/P/29vb//v7+//////////////////kJCQ/9jY2P+QkJD/9/f3///////Pz8//mpqa/7W1tf+1tbX///////f39/+Ghob/VVVV/1VVVf96enr/b29v/+/v7//v7+//b29v/8/Pz///////tbW1/4aGhv/39/f/////////////////mpqa//f39/+QkJD/39/f//////+ampr/z8/P/8/Pz/+ampr///////////////////////////+1tbX/b29v/+/v7//v7+//b29v/8/Pz///////z8/P/29vb//v7+//////////////////tbW1//////+ampr/z8/P/+/v7/97e3v/39/f/+/v7/+Ghob/7+/v/+/v7/97e3v/39/f///////Pz8//b29v/+/v7//v7+//b29v/8/Pz///////7+/v/29vb//Pz8///////8/Pz/9vb2//39/f///////Pz8//mpqa/9/f3/+QkJD/9/f3//f39/+Ghob/z8/P///////Pz8//VVVV/1VVVf9VVVX/tbW1//f39/+Ghob/VVVV/1VVVf/Pz8///////9/f3/9iYmL/VVVV/2JiYv/f39//7+/v///////f39//kJCQ/62trf+1tbX///////////+ampr/tbW1///////////////////////////////////////v7+//b29v/8/Pz/////////////////////////////////////// : 0 : 0 : 0 : 306;720;106;559
+DELAY : 500
+Mouse : 278 : 499 : Click : 0 : 0 : 0
+DELAY : 1100
+Mouse : 646 : 666 : Click : 0 : 0 : 0
+DELAY : 6000
+ENDIF
+IF IMAGE : Qk1GAgAAAAAAADYAAAAoAAAAIQAAAAQAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA7+/v/29vb//Pz8////////////////////////f39/+Ghob/tbW1/9/f3/9iYmL/b29v/29vb//f39////////////+ampr/mpqa//////+ampr/mpqa////////////tbW1/4aGhv/39/f/tbW1/4aGhv/39/f//////+/v7/9vb2//7+/v/29vb//Pz8////////////////////////f39/+Ghob/tbW1/9/f3/9vb2//b29v/5qamv////////////////+ampr/mpqa//////+ampr/mpqa////////////tbW1/4aGhv/39/f/z8/P/29vb//v7+///////+/v7/9vb2//7+/v/29vb//Pz8////////////////////////f39/+Ghob/tbW1/9/f3/9vb2//39/f/5qamv+ampr///////////+ampr/mpqa//////+ampr/YmJi/9/f3///////mpqa/4aGhv/39/f/7+/v/29vb//Pz8///////7W1tf9VVVX/7+/v/29vb//Pz8////////////////////////f39/+Ghob/tbW1/9/f3/9vb2//39/f//////+ampr/b29v/+/v7/+ampr/mpqa//////+ampr/hoaG/29vb/9VVVX/YmJi/9/f3////////////8/Pz/9VVVX/VVVV/4aGhv9vb2// : 0 : 0 : 0 : 306;720;106;559
+DELAY : 500
+Mouse : 277 : 416 : Click : 0 : 0 : 0
+DELAY : 1100
+Mouse : 646 : 666 : Click : 0 : 0 : 0
+DELAY : 6000
+ENDIF
+IF WINDOW EXISTS : earn : 0
+IF FILE EXISTS : C:\xemkochaycommment.txt
+REPEAT : 20 : 0 : 0 : Enter the number of iterations: : 0 : 0
+IF IMAGE : Qk1GAwAAAAAAADYAAAAoAAAAHAAAAAcAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAAYmJi/9/f3/////////////////+ampr/mpqa////////////39/f/29vb//f39////////f39/+Ghob/tbW1///////Pz8//VVVV/4aGhv/39/f/39/f/2JiYv9VVVX/VVVV/7W1tf///////////5CQkP/Pz8/////////////39/f/kJCQ/4aGhv/v7+///////9/f3/9vb2//39/f///////39/f/hoaG/7W1tf//////mpqa/5qamv//////7+/v/29vb//Pz8///////9/f3/9iYmL/z8/P//////+/v7//mpqa////////////39/f/5CQkP+ampr/39/f///////f39//b29v/9/f3///////9/f3/4aGhv+1tbX//////5qamv+ampr//////8/Pz/+Ghob/9/f3////////////////////////////2NjY/5CQkP/39/f//////8/Pz/+ampr/tbW1/7W1tf//////39/f/29vb//f39////////f39/+Ghob/tbW1//////+ampr/mpqa//////+1tbX/VVVV/1VVVf9VVVX/VVVV/1VVVf+1tbX///////f39/+QkJD/39/f//////+ampr/z8/P/8/Pz/+ampr//////9/f3/9vb2//39/f///////39/f/hoaG/7W1tf//////mpqa/5qamv//////z8/P/4aGhv/39/f///////f39/+Ghob/z8/P////////////mpqa/8/Pz//v7+//e3t7/9/f3//v7+//hoaG/+/v7//f39//YmJi/7W1tf//////9/f3/4aGhv+1tbX//////5qamv+ampr//////+/v7/9vb2//z8/P///////Pz8//b29v/+/v7////////////8/Pz/+ampr/39/f/5CQkP/39/f/9/f3/4aGhv/Pz8//39/f/3t7e/+Ghob/VVVV/8rKyv+Ghob/tbW1/7W1tf9VVVX/VVVV/5qamv//////39/f/2JiYv9VVVX/YmJi/9/f3////////////w== : 0 : 0 : 0 : 249;720;288;72
+DELAY : 100
+Mouse : 764 : 757 : Click : 0 : 0 : 0
+DELAY : 1100
+Mouse : 770 : 788 : Click : 0 : 0 : 0
+DELAY : 1100
+Mouse : 764 : 758 : Click : 0 : 0 : 0
+DELAY : 2000
+IF IMAGE : Qk1qAQAAAAAAADYAAAAoAAAACwAAAAcAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA/////+fn5/+Pj4//5+fn////////////5+fn/4+Pj//n5+f//////////////////////+fn5/+Pj4//5+fn/+fn5/+Pj4//5+fn/////////////////////////////////+fn5/+Pj4//j4+P/+fn5///////////////////////////////////////5+fn/4+Pj/+Pj4//5+fn/////////////////////////////////+fn5/+Pj4//5+fn/+fn5/+Pj4//5+fn///////////////////////n5+f/j4+P/+fn5////////////+fn5/+Pj4//5+fn////////////5+fn/4+Pj//n5+f//////////////////////+fn5/+Pj4//5+fn//////8= : 1 : 5 : 0 : 703;696;108;112
+DELAY : 100
+Mouse : 0 : 0 : Click : 0 : 1 : 0
+DELAY : 3000
+ENDIF
+ENDIF
+ENDREPEAT
+OPEN FILE : C:\aviso\chaynext.ahk :  : 1
+ENDIF
+ENDIF
+REPEAT : 1 : 0 : 0 : Enter the number of iterations: : 0 : 0
+IF IMAGE : Qk1GAwAAAAAAADYAAAAoAAAAHAAAAAcAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAAYmJi/9/f3/////////////////+ampr/mpqa////////////39/f/29vb//f39////////f39/+Ghob/tbW1///////Pz8//VVVV/4aGhv/39/f/39/f/2JiYv9VVVX/VVVV/7W1tf///////////5CQkP/Pz8/////////////39/f/kJCQ/4aGhv/v7+///////9/f3/9vb2//39/f///////39/f/hoaG/7W1tf//////mpqa/5qamv//////7+/v/29vb//Pz8///////9/f3/9iYmL/z8/P//////+/v7//mpqa////////////39/f/5CQkP+ampr/39/f///////f39//b29v/9/f3///////9/f3/4aGhv+1tbX//////5qamv+ampr//////8/Pz/+Ghob/9/f3////////////////////////////2NjY/5CQkP/39/f//////8/Pz/+ampr/tbW1/7W1tf//////39/f/29vb//f39////////f39/+Ghob/tbW1//////+ampr/mpqa//////+1tbX/VVVV/1VVVf9VVVX/VVVV/1VVVf+1tbX///////f39/+QkJD/39/f//////+ampr/z8/P/8/Pz/+ampr//////9/f3/9vb2//39/f///////39/f/hoaG/7W1tf//////mpqa/5qamv//////z8/P/4aGhv/39/f///////f39/+Ghob/z8/P////////////mpqa/8/Pz//v7+//e3t7/9/f3//v7+//hoaG/+/v7//f39//YmJi/7W1tf//////9/f3/4aGhv+1tbX//////5qamv+ampr//////+/v7/9vb2//z8/P///////Pz8//b29v/+/v7////////////8/Pz/+ampr/39/f/5CQkP/39/f/9/f3/4aGhv/Pz8//39/f/3t7e/+Ghob/VVVV/8rKyv+Ghob/tbW1/7W1tf9VVVX/VVVV/5qamv//////39/f/2JiYv9VVVX/YmJi/9/f3////////////w== : 0 : 0 : 0 : 302;723;160;77
+DELAY : 500
+Mouse : 81 : 766 : Click : 0 : 0 : 0
+DELAY : 5000
+IF IMAGE : Qk3GAgAAAAAAADYAAAAoAAAAKQAAAAQAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA///////////v7+//b29v/1VVVf9VVVX/VVVV/1VVVf+1tbX///////f39/+Ghob/tbW1///////Pz8//YmJi/9/f3//39/f/hoaG/7W1tf/f39//b29v/9/f3//39/f/hoaG/7W1tf//////z8/P/2JiYv/f39//39/f/3t7e//v7+//7+/v/4aGhv97e3v/7+/v/+/v7/97e3v/39/f/////////////////+/v7/9vb2//z8/P/////////////////////////////////+/v7/9vb2//VVVV/1VVVf/Pz8////////f39/+Ghob/tbW1/9/f3/9vb2//39/f///////v7+//b29v/1VVVf9VVVX/z8/P//////+1tbX/mpqa////////////mpqa/5qamv///////////5qamv+1tbX/////////////////7+/v/29vb//Pz8//////////////////////////////////////////////////////////////////9/f3/4aGhv+1tbX/39/f/29vb//f39/////////////////////////////////////////////////////////////////////////////////////////////////////////////v7+//b29v/8/Pz//////////////////////////////////////////////////////////////////39/f/hoaG/7W1tf/f39//b29v/9/f3/////////////////////////////////////////////////////////////////////////////////////////////////8= : 0 : 0 : 0 : 306;720;106;559
+DELAY : 500
+Mouse : 277 : 333 : Click : 0 : 0 : 0
+DELAY : 1100
+Mouse : 646 : 666 : Click : 0 : 0 : 0
+DELAY : 6000
+EXIT LOOP
+ENDIF
+Mouse : 65 : 814 : Click : 0 : 0 : 0
+DELAY : 5000
+IF IMAGE : Qk1GAgAAAAAAADYAAAAoAAAAIQAAAAQAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA7+/v/29vb//Pz8////////////////////////f39/+Ghob/tbW1/9/f3/9iYmL/b29v/29vb//f39////////////+ampr/mpqa//////+ampr/mpqa////////////tbW1/4aGhv/39/f/tbW1/4aGhv/39/f//////+/v7/9vb2//7+/v/29vb//Pz8////////////////////////f39/+Ghob/tbW1/9/f3/9vb2//b29v/5qamv////////////////+ampr/mpqa//////+ampr/mpqa////////////tbW1/4aGhv/39/f/z8/P/29vb//v7+///////+/v7/9vb2//7+/v/29vb//Pz8////////////////////////f39/+Ghob/tbW1/9/f3/9vb2//39/f/5qamv+ampr///////////+ampr/mpqa//////+ampr/YmJi/9/f3///////mpqa/4aGhv/39/f/7+/v/29vb//Pz8///////7W1tf9VVVX/7+/v/29vb//Pz8////////////////////////f39/+Ghob/tbW1/9/f3/9vb2//39/f//////+ampr/b29v/+/v7/+ampr/mpqa//////+ampr/hoaG/29vb/9VVVX/YmJi/9/f3////////////8/Pz/9VVVX/VVVV/4aGhv9vb2// : 0 : 0 : 0 : 306;720;106;559
+DELAY : 500
+Mouse : 277 : 416 : Click : 0 : 0 : 0
+DELAY : 1100
+Mouse : 646 : 666 : Click : 0 : 0 : 0
+DELAY : 6000
+EXIT LOOP
+ENDIF
+Mouse : 67 : 852 : Click : 0 : 0 : 0
+DELAY : 5000
+IF IMAGE : Qk0CBAAAAAAAADYAAAAoAAAAGwAAAAkAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////tbW1/2JiYv/f39//////////////////mpqa/5qamv////////////f39/+Ghob/VVVV/2JiYv+/v7//b29v/9/f3///////mpqa/1VVVf+1tbX//////9/f3/9iYmL/VVVV/1VVVf/Pz8//o6Oj/5CQkP/Pz8/////////////39/f/kJCQ/4aGhv/v7+///////8/Pz/9iYmL/39/f//f39/+Ghob/b29v/+/v7//v7+//b29v/8/Pz///////7+/v/29vb//Pz8///////9/f3/9vb2//hoaG/7+/v/+ampr////////////f39//kJCQ/5qamv/f39///////8/Pz/9vb2//7+/v///////Pz8//b29v/+/v7//v7+//b29v/8/Pz///////z8/P/29vb//v7+//////////////////kJCQ/9jY2P+QkJD/9/f3///////Pz8//mpqa/7W1tf+1tbX///////f39/+Ghob/VVVV/1VVVf96enr/b29v/+/v7//v7+//b29v/8/Pz///////tbW1/4aGhv/39/f/////////////////mpqa//f39/+QkJD/39/f//////+ampr/z8/P/8/Pz/+ampr///////////////////////////+1tbX/b29v/+/v7//v7+//b29v/8/Pz///////z8/P/29vb//v7+//////////////////tbW1//////+ampr/z8/P/+/v7/97e3v/39/f/+/v7/+Ghob/7+/v/+/v7/97e3v/39/f///////Pz8//b29v/+/v7//v7+//b29v/8/Pz///////7+/v/29vb//Pz8///////8/Pz/9vb2//39/f///////Pz8//mpqa/9/f3/+QkJD/9/f3//f39/+Ghob/z8/P///////Pz8//VVVV/1VVVf9VVVX/tbW1//f39/+Ghob/VVVV/1VVVf/Pz8///////9/f3/9iYmL/VVVV/2JiYv/f39//7+/v///////f39//kJCQ/62trf+1tbX///////////+ampr/tbW1///////////////////////////////////////v7+//b29v/8/Pz/////////////////////////////////////// : 0 : 0 : 0 : 306;720;106;559
+DELAY : 500
+Mouse : 278 : 499 : Click : 0 : 0 : 0
+DELAY : 1100
+Mouse : 646 : 666 : Click : 0 : 0 : 0
+DELAY : 6000
+EXIT LOOP
+ENDIF
+Mouse : 277 : 584 : Click : 0 : 0 : 0
+DELAY : 1100
+Mouse : 646 : 666 : Click : 0 : 0 : 0
+DELAY : 6000
+REPEAT : 210 : 0 : 0 : Enter the number of iterations: : 0 : 0
+IF WINDOW EXISTS : earn : 0
+IF IMAGE : Qk02AgAAAAAAADYAAAAoAAAAQAAAAAIAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAAZa3q/6xnxv/6+ur/+vr9//r6/f+Fzf3/hS7G/+b63v8rZ9X/+s3Q//r6/f/6+v3/rOb9/ysuyf/6zdD/zPr9/2Uu0P/65tX/+vr9//r6/f+Fzf3/ZS7G//rm1f/M+v3/ZS7Q//rm1f/6+v3/+vr9//r6/f8rh97/5q3J/4XN/f+FLsb/+vre//r6/f/6+v3/Za3q/6xnxv/6+ur/+vr9//r6/f/6+v3/5vr9/ytn1f/mrcn/+vr9//r6/f/6+v3/K4fe/8yHxv/6+v3/Za3q/6xnxv/6+ur/+vr9/8z6/f8rLtD/+s3Q//r6/f9lrer/zIfG//r6/f/6+v3/+vr9/8z6/f8rLtD/5q3J//r6/f/M+v3/Ky7Q/+atyf/6+v3/Za3q/4Uuxv/6+t7/+vr9/yuH3v8rLsb/+s3Q//r6/f8rh97/rGfG//r66v/m+v3/K2fV/2Uuxv/65tX/+vr9/2Wt6v+sZ8b/+vrq//r6/f+Fzf3/hS7G//r63v/M+v3/Ky7Q/+atyf/6+v3/rOb9/ysuyf+sZ8b/+vrq//r6/f/6+v3/+vr9//r6/f+Fzf3/ZS7G//rm1f/6+v3/hc39/2Uuxv/65tX/+vr9/2Wt6v+sZ8b/+vrq//r6/f/M+v3/Ky7Q//rN0P/6+v3/Za3q/8yHxv/6+v3/+vr9//r6/f8= : 0 : 5 : 0 : 508;287;160;268
+DELAY : 50
+OPEN FILE : C:\aviso\khoagmail.ahk :  : 1
+DELAY : 500
+OPEN FILE : C:\aviso\chaynext.ahk :  : 1
+DELAY : 10000
+ENDIF
+ENDIF
+IF WINDOW EXISTS : earn : 0
+IF IMAGE : Qk0mAwAAAAAAADYAAAAoAAAALwAAAAQAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA+vr9//r6/f8rh97/zIfG//r6/f/6+v3/rOb9/2Uuyf/65tX/zPr9/2Uu0P/65tX/+vr9//r6/f/M+v3/Ky7Q//rN0P8rh97/zIfG//r6/f/6+v3/+vr9/2Wt6v/Mh8b/+vr9//r6/f/6+v3/Za3q/ysuxv8rLsb/Ky7G//rN0P/6+v3/Za3q/8yHxv/6+v3/rOb9/ysuyf8rLsb/Ky7G/ysuxv8rLsb/Ky7G/+atyf/6+v3/+vr9//r6/f/6+v3/+vr9/yuH3v/Mh8b/+vr9//r6/f+s5v3/ZS7J//rm1f/M+v3/Ky7Q//rN0P/6+v3/+vr9/6zm/f9lLsn/+ubV/2Wt6v+sZ8b/+vrq//r6/f/6+v3/K4fe/8yHxv/6+v3/+vr9//r6/f/6+v3/+vr9/8z6/f8rLtD/+s3Q//r6/f9lrer/zIfG//r6/f/M+v3/ZS7Q//rm1f/6+v3/+vr9//r6/f8rh97/5q3J//r6/f/6+v3/+vr9//r6/f/6+v3/K4fe/8yHxv/6+v3/+vr9/6zm/f9lLsn/+ubV/8z6/f8rLtD/hS7G//r63v/6+v3/K4fe/6xnxv/6+ur/rOb9/ysuyf/6zdD/+vr9/4XN/f8rLsb/zIfG//r6/f8rh97/rGfG//r66v/6+v3/hc39/ysuxv/6zdD/+vr9/2Wt6v/Mh8b/+vr9//r6/f9lrer/rGfG//r66v/6+v3/hc39/4Uuxv/6+t7/+vr9//r6/f/6+v3/+vr9//r6/f8rh97/zIfG//r6/f/6+v3/rOb9/2Uuyf/65tX/zPr9/2Uu0P+szdX/Ky7J/ysuxv+sZ8b/+vrq//r6/f/6+v3/rOb9/ysuyf8rLsb/hS7G/yuH0P/Mh8b/+vr9//r6/f8rh97/Ky7G/ysuxv8rLsb/zIfG//r6/f9lrer/Ky7G/ysuxv+sZ8b/+vrq//r6/f9lrer/Ky7G/ysuxv9lLsb/+ubV//r6/f/6+v3/+vr9//r6/f8= : 0 : 0 : 0 : 497;293;166;319
+DELAY : 50
+DELAY : 1000
+Mouse : 114 : 201 : Click : 0 : 0 : 0
+DELAY : 5000
+Mouse : 530 : 536 : Click : 0 : 0 : 0
+DELAY : 2000
+OPEN FILE : C:\aviso\chaynext.ahk :  : 1
+DELAY : 10000
+ENDIF
+ENDIF
+IF WINDOW EXISTS : earn : 0
+IF IMAGE : Qk3aBAAAAAAAADYAAAAoAAAAIQAAAAkAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/sLLu/7Cy7v+wsu7/sLLu/7Cy7v+wsu7/sLLu/7Cy7v+wsu7/sLLu/7Cy7v+wsu7/sLLu/7Cy7v+wsu7/sLLu/7Cy7v+wsu7/sLLu/7Cy7v+wsu7/sLLu/7Cy7v+wsu7/sLLu/7Cy7v+wsu7/sLLu/7Cy7v+wsu7/sLLu/7Cy7v+wsu7///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// : 0 : 0 : 0 : 483;224;61;699
+DELAY : 50
+DELAY : 500
+OPEN FILE : C:\aviso\chaynext.ahk :  : 1
+DELAY : 10000
+ENDIF
+ENDIF
+IF WINDOW EXISTS : earn : 0
+IF IMAGE : Qk0GAwAAAAAAADYAAAAoAAAAEgAAAAoAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/l8qW/5fKlv+Xypb/l8qW/5fKlv+Xypb/l8qW/5fKlv+Xypb/l8qW/5fKlv+Xypb/l8qW/5fKlv+Xypb/l8qW/5fKlv+Xypb///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// : 0 : 0 : 0 : 483;224;61;699
+DELAY : 50
+DELAY : 500
+OPEN FILE : C:\aviso\chaynext.ahk :  : 1
+DELAY : 10000
+ENDIF
+ENDIF
+IF IMAGE : Qk2eAQAAAAAAADYAAAAoAAAACgAAAAkAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA/////8bGxv83Nzf/Ghoa/xoaGv8aGhr/Ghoa/xoaGv8aGhr/Ghoa/////////////////6qqqv8oKCj/Ghoa/xoaGv8aGhr/Ghoa/xoaGv//////////////////////8vLy/42Njf8oKCj/Ghoa/xoaGv8aGhr/////////////////////////////////4+Pj/3BwcP8aGhr/Ghoa////////////////////////////////////////////1dXV/1RUVP///////////////////////////////////////////9TU1P9UVFT/////////////////////////////////4uLi/29vb/8aGhr/Ghoa///////////////////////x8fH/jIyM/ygoKP8aGhr/Ghoa/xoaGv////////////////+pqan/KCgo/xoaGv8aGhr/Ghoa/xoaGv8aGhr/ : 1 : 5 : 0 : 205;384;308;651
+DELAY : 100
+Mouse : 0 : 0 : Click : 0 : 1 : 0
+DELAY : 2000
+ENDIF
+IF IMAGE : Qk2+AQAAAAAAADYAAAAoAAAABwAAAA4AAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAAqqqq/2xsbP9zc3P/fHx8/3x8fP98fHz/fHx8//Ly8v/j4+P/h4eH/3BwcP96enr/f39//39/f//y8vL/8vLy//Dw8P/IyMj/b29v/3Z2dv9/f3//8vLy//Ly8v/y8vL/8vLy/+3t7f+ioqL/cnJy//Ly8v/y8vL/8vLy//Ly8v/y8vL/8vLy/9jY2P/y8vL/8vLy//Ly8v/y8vL/8vLy//Ly8v/y8vL/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz/9ra2v/z8/P/8/Pz//Pz8//z8/P/7u7u/6mpqf99fX3/8/Pz//Pz8//y8vL/zc3N/319ff+EhIT/j4+P//T09P/m5ub/lpaW/4GBgf+NjY3/k5OT/5OTk/+1tbX/goKC/4qKiv+VlZX/lZWV/5WVlf+VlZX/iIiI/5WVlf+YmJj/mJiY/5iYmP+YmJj/mJiY/5qamv+ampr/mpqa/5qamv+ampr/mpqa/5qamv8= : 1 : 5 : 0 : 28;526;67;700
+DELAY : 100
+Mouse : 0 : 0 : Click : 0 : 1 : 0
+DELAY : 2000
+ENDIF
+IF IMAGE : Qk3GAAAAAAAAADYAAAAoAAAABAAAAAkAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA5eXl/+Xl5f/l5eX/5eXl/+Xl5f/l5eX/5eXl/+Xl5f/l5eX/5eXl/+Xl5f/d3d3/5eXl/+Xl5f+jo6P/GRkZ/9DQ0P8xMTH/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/ : 1 : 5 : 0 : 240;353;404;764
+DELAY : 100
+Mouse : 0 : 0 : Click : 0 : 1 : 0
+DELAY : 2000
+ENDIF
+IF IMAGE : Qk0aAgAAAAAAADYAAAAoAAAACwAAAAsAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAAAAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/g4OD/+Xl5f/l5eX/5eXl/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/4ODg//l5eX/5eXl/+Xl5f/l5eX/XV1d/wAAAP8AAAD/AAAA/wAAAP+Dg4P/5eXl/+Xl5f/l5eX/5eXl/+Xl5f/l5eX/AAAA/wAAAP8AAAD/AAAA/4ODg//l5eX/5eXl/+Xl5f/l5eX/5eXl/+Xl5f8AAAD/AAAA/wAAAP8AAAD/AAAA/4ODg//l5eX/5eXl/+Xl5f/l5eX/MTEx/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/4ODg//l5eX/5eXl/+Xl5f8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/4ODg//l5eX/5eXl/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/4ODg//l5eX/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/4ODg/8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/w== : 1 : 5 : 0 : 27;505;66;767
+DELAY : 100
+Mouse : 0 : 0 : Click : 0 : 1 : 0
+DELAY : 2000
+ENDIF
+DELAY : 1100
+ENDREPEAT
+DELAY : 500
+OPEN FILE : C:\aviso\chaynext.ahk :  : 1
+DELAY : 10000
+ENDIF
+ENDREPEAT
+DELAY : 500
+REPEAT : 450 : 0 : 0 : Enter the number of iterations: : 0 : 0
+IF IMAGE : Qk3GAAAAAAAAADYAAAAoAAAABgAAAAYAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA///////////////////////////////////////////////////////////////////////////////////////////FxcX/////////////////09PT/1NTU/8aGhr//////+Li4v9vb2//Ghoa/xoaGv8aGhr/jIyM/ygoKP8aGhr/Ghoa/xoaGv8aGhr/ : 1 : 5 : 0 : 182;320;440;829
+DELAY : 100
+Mouse : 0 : 0 : Click : 0 : 1 : 0
+DELAY : 2000
+ENDIF
+IF IMAGE : Qk32AAAAAAAAADYAAAAoAAAABAAAAAwAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA//////////////////////////////////////////8PDw//Dw8P/w8PD/8PDw//Dw8P/w8PD/8PDw//Dw8P/w8PD/8PDw//Dw8P/w8PD/8PDw//Dw8P/w8PD/8PDw//Dw8P/w8PD/8PDw//Dw8P/w8PD/8PDw//Dw8P/w8PD/8PDw//Dw8P/w8PD/8PDw//Dw8P/w8PD/8PDw//Dw8P/w8PD/8PDw//Dw8P/w8PD/8PDw//Dw8P/w8PD/8PDw// : 1 : 0 : 0 : 55;265;750;190
+DELAY : 100
+Mouse : 0 : 0 : Click : 0 : 1 : 0
+DELAY : 2000
+ENDIF
+IF IMAGE : Qk2eAQAAAAAAADYAAAAoAAAACgAAAAkAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA/////8bGxv83Nzf/Ghoa/xoaGv8aGhr/Ghoa/xoaGv8aGhr/Ghoa/////////////////6qqqv8oKCj/Ghoa/xoaGv8aGhr/Ghoa/xoaGv//////////////////////8vLy/42Njf8oKCj/Ghoa/xoaGv8aGhr/////////////////////////////////4+Pj/3BwcP8aGhr/Ghoa////////////////////////////////////////////1dXV/1RUVP///////////////////////////////////////////9TU1P9UVFT/////////////////////////////////4uLi/29vb/8aGhr/Ghoa///////////////////////x8fH/jIyM/ygoKP8aGhr/Ghoa/xoaGv////////////////+pqan/KCgo/xoaGv8aGhr/Ghoa/xoaGv8aGhr/ : 1 : 5 : 0 : 205;384;308;651
+DELAY : 100
+Mouse : 0 : 0 : Click : 0 : 1 : 0
+DELAY : 2000
+ENDIF
+IF IMAGE : Qk2+AQAAAAAAADYAAAAoAAAABwAAAA4AAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAAqqqq/2xsbP9zc3P/fHx8/3x8fP98fHz/fHx8//Ly8v/j4+P/h4eH/3BwcP96enr/f39//39/f//y8vL/8vLy//Dw8P/IyMj/b29v/3Z2dv9/f3//8vLy//Ly8v/y8vL/8vLy/+3t7f+ioqL/cnJy//Ly8v/y8vL/8vLy//Ly8v/y8vL/8vLy/9jY2P/y8vL/8vLy//Ly8v/y8vL/8vLy//Ly8v/y8vL/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz//Pz8//z8/P/8/Pz/9ra2v/z8/P/8/Pz//Pz8//z8/P/7u7u/6mpqf99fX3/8/Pz//Pz8//y8vL/zc3N/319ff+EhIT/j4+P//T09P/m5ub/lpaW/4GBgf+NjY3/k5OT/5OTk/+1tbX/goKC/4qKiv+VlZX/lZWV/5WVlf+VlZX/iIiI/5WVlf+YmJj/mJiY/5iYmP+YmJj/mJiY/5qamv+ampr/mpqa/5qamv+ampr/mpqa/5qamv8= : 1 : 5 : 0 : 28;526;67;700
+DELAY : 100
+Mouse : 0 : 0 : Click : 0 : 1 : 0
+DELAY : 2000
+ENDIF
+IF IMAGE : Qk3GAAAAAAAAADYAAAAoAAAABAAAAAkAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA5eXl/+Xl5f/l5eX/5eXl/+Xl5f/l5eX/5eXl/+Xl5f/l5eX/5eXl/+Xl5f/d3d3/5eXl/+Xl5f+jo6P/GRkZ/9DQ0P8xMTH/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/ : 1 : 5 : 0 : 240;353;404;764
+DELAY : 100
+Mouse : 0 : 0 : Click : 0 : 1 : 0
+DELAY : 2000
+ENDIF
+IF IMAGE : Qk0aAgAAAAAAADYAAAAoAAAACwAAAAsAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAAAAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/g4OD/+Xl5f/l5eX/5eXl/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/4ODg//l5eX/5eXl/+Xl5f/l5eX/XV1d/wAAAP8AAAD/AAAA/wAAAP+Dg4P/5eXl/+Xl5f/l5eX/5eXl/+Xl5f/l5eX/AAAA/wAAAP8AAAD/AAAA/4ODg//l5eX/5eXl/+Xl5f/l5eX/5eXl/+Xl5f8AAAD/AAAA/wAAAP8AAAD/AAAA/4ODg//l5eX/5eXl/+Xl5f/l5eX/MTEx/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/4ODg//l5eX/5eXl/+Xl5f8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/4ODg//l5eX/5eXl/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/4ODg//l5eX/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/4ODg/8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/w== : 1 : 5 : 0 : 27;505;66;767
+DELAY : 100
+Mouse : 0 : 0 : Click : 0 : 1 : 0
+DELAY : 2000
+ENDIF
+IF IMAGE : Qk2WAAAAAAAAADYAAAAoAAAAAgAAAAwAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAAZmZm/2ZmZv9mZmb/ZmZm/2ZmZv9mZmb/ZmZm/2ZmZv9mZmb/ZmZm/2ZmZv9mZmb/ZmZm/2ZmZv9mZmb/ZmZm/1RUVP8hISH/CgoK/woKCv8KCgr/CgoK/woKCv8KCgr/ : 1 : 5 : 0 : 240;353;304;784
+DELAY : 100
+Mouse : 0 : 0 : Click : 0 : 1 : 0
+DELAY : 500
+Keyboard : K : KeyPress
+DELAY : 2000
+ENDIF
+IF WINDOW EXISTS : earn : 0
+IF IMAGE : Qk02AgAAAAAAADYAAAAoAAAAQAAAAAIAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAAZa3q/6xnxv/6+ur/+vr9//r6/f+Fzf3/hS7G/+b63v8rZ9X/+s3Q//r6/f/6+v3/rOb9/ysuyf/6zdD/zPr9/2Uu0P/65tX/+vr9//r6/f+Fzf3/ZS7G//rm1f/M+v3/ZS7Q//rm1f/6+v3/+vr9//r6/f8rh97/5q3J/4XN/f+FLsb/+vre//r6/f/6+v3/Za3q/6xnxv/6+ur/+vr9//r6/f/6+v3/5vr9/ytn1f/mrcn/+vr9//r6/f/6+v3/K4fe/8yHxv/6+v3/Za3q/6xnxv/6+ur/+vr9/8z6/f8rLtD/+s3Q//r6/f9lrer/zIfG//r6/f/6+v3/+vr9/8z6/f8rLtD/5q3J//r6/f/M+v3/Ky7Q/+atyf/6+v3/Za3q/4Uuxv/6+t7/+vr9/yuH3v8rLsb/+s3Q//r6/f8rh97/rGfG//r66v/m+v3/K2fV/2Uuxv/65tX/+vr9/2Wt6v+sZ8b/+vrq//r6/f+Fzf3/hS7G//r63v/M+v3/Ky7Q/+atyf/6+v3/rOb9/ysuyf+sZ8b/+vrq//r6/f/6+v3/+vr9//r6/f+Fzf3/ZS7G//rm1f/6+v3/hc39/2Uuxv/65tX/+vr9/2Wt6v+sZ8b/+vrq//r6/f/M+v3/Ky7Q//rN0P/6+v3/Za3q/8yHxv/6+v3/+vr9//r6/f8= : 0 : 5 : 0 : 508;287;160;268
+DELAY : 50
+OPEN FILE : C:\aviso\khoagmail.ahk :  : 1
+DELAY : 500
+OPEN FILE : C:\aviso\chaynext.ahk :  : 1
+DELAY : 10000
+ENDIF
+ENDIF
+IF WINDOW EXISTS : https://getlike.io/en/tasks/youtube/all/ : 0
+DELAY : 50
+DELAY : 500
+OPEN FILE : C:\aviso\chaynext.ahk :  : 1
+DELAY : 10000
+ENDIF
+IF WINDOW EXISTS : New Tab : 0
+DELAY : 50
+DELAY : 500
+OPEN FILE : C:\aviso\chaynext.ahk :  : 1
+DELAY : 10000
+ENDIF
+IF WINDOW EXISTS : earn : 0
+IF IMAGE : Qk0mAwAAAAAAADYAAAAoAAAALwAAAAQAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA+vr9//r6/f8rh97/zIfG//r6/f/6+v3/rOb9/2Uuyf/65tX/zPr9/2Uu0P/65tX/+vr9//r6/f/M+v3/Ky7Q//rN0P8rh97/zIfG//r6/f/6+v3/+vr9/2Wt6v/Mh8b/+vr9//r6/f/6+v3/Za3q/ysuxv8rLsb/Ky7G//rN0P/6+v3/Za3q/8yHxv/6+v3/rOb9/ysuyf8rLsb/Ky7G/ysuxv8rLsb/Ky7G/+atyf/6+v3/+vr9//r6/f/6+v3/+vr9/yuH3v/Mh8b/+vr9//r6/f+s5v3/ZS7J//rm1f/M+v3/Ky7Q//rN0P/6+v3/+vr9/6zm/f9lLsn/+ubV/2Wt6v+sZ8b/+vrq//r6/f/6+v3/K4fe/8yHxv/6+v3/+vr9//r6/f/6+v3/+vr9/8z6/f8rLtD/+s3Q//r6/f9lrer/zIfG//r6/f/M+v3/ZS7Q//rm1f/6+v3/+vr9//r6/f8rh97/5q3J//r6/f/6+v3/+vr9//r6/f/6+v3/K4fe/8yHxv/6+v3/+vr9/6zm/f9lLsn/+ubV/8z6/f8rLtD/hS7G//r63v/6+v3/K4fe/6xnxv/6+ur/rOb9/ysuyf/6zdD/+vr9/4XN/f8rLsb/zIfG//r6/f8rh97/rGfG//r66v/6+v3/hc39/ysuxv/6zdD/+vr9/2Wt6v/Mh8b/+vr9//r6/f9lrer/rGfG//r66v/6+v3/hc39/4Uuxv/6+t7/+vr9//r6/f/6+v3/+vr9//r6/f8rh97/zIfG//r6/f/6+v3/rOb9/2Uuyf/65tX/zPr9/2Uu0P+szdX/Ky7J/ysuxv+sZ8b/+vrq//r6/f/6+v3/rOb9/ysuyf8rLsb/hS7G/yuH0P/Mh8b/+vr9//r6/f8rh97/Ky7G/ysuxv8rLsb/zIfG//r6/f9lrer/Ky7G/ysuxv+sZ8b/+vrq//r6/f9lrer/Ky7G/ysuxv9lLsb/+ubV//r6/f/6+v3/+vr9//r6/f8= : 0 : 0 : 0 : 497;293;166;319
+DELAY : 50
+DELAY : 1000
+Mouse : 114 : 201 : Click : 0 : 0 : 0
+DELAY : 5000
+Mouse : 530 : 536 : Click : 0 : 0 : 0
+DELAY : 2000
+OPEN FILE : C:\aviso\chaynext.ahk :  : 1
+DELAY : 10000
+ENDIF
+ENDIF
+IF WINDOW EXISTS : earn : 0
+IF IMAGE : Qk0GAwAAAAAAADYAAAAoAAAAEgAAAAoAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/8Pz0//D89P/w/PT/l8qW/5fKlv+Xypb/l8qW/5fKlv+Xypb/l8qW/5fKlv+Xypb/l8qW/5fKlv+Xypb/l8qW/5fKlv+Xypb/l8qW/5fKlv+Xypb///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// : 0 : 0 : 0 : 483;224;61;699
+DELAY : 50
+DELAY : 500
+OPEN FILE : C:\aviso\chaynext.ahk :  : 1
+DELAY : 10000
+ENDIF
+ENDIF
+IF WINDOW EXISTS : earn : 0
+IF IMAGE : Qk3aBAAAAAAAADYAAAAoAAAAIQAAAAkAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/+vr9//r6/f/6+v3/sLLu/7Cy7v+wsu7/sLLu/7Cy7v+wsu7/sLLu/7Cy7v+wsu7/sLLu/7Cy7v+wsu7/sLLu/7Cy7v+wsu7/sLLu/7Cy7v+wsu7/sLLu/7Cy7v+wsu7/sLLu/7Cy7v+wsu7/sLLu/7Cy7v+wsu7/sLLu/7Cy7v+wsu7/sLLu/7Cy7v+wsu7///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// : 0 : 0 : 0 : 483;224;61;699
+DELAY : 50
+DELAY : 500
+OPEN FILE : C:\aviso\chaynext.ahk :  : 1
+DELAY : 10000
+ENDIF
+ENDIF
+IF WINDOW EXISTS : earn : 0
+IF IMAGE : Qk0GAwAAAAAAADYAAAAoAAAADwAAAAwAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAA7vDx/+7w8f/u8PH/1dfX/7e4uP+rq6v/qqqq/6qqqv+rq6v/t7i4/9XX1//u8PH/7vDx/+7w8f/u8PH/7vDx/+vt7v/Cw8P/qqqq/6qqqv+vsLD/urq6/7q6uv+vsLD/qqqq/6qqqv/AwMD/6+3u/+7w8f/u8PH/7vDx/8XFxv+qqqr/srKy/9vc3f/u8PH/7vDx/+7w8f/u8PH/29zd/7Kysv+qqqr/xcXG/+7w8f/u8PH/7vDx/8XGx/+4uLn/5ebn/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+Xm5/+4uLj/x8jI/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/d3t//w8TE/93e3//u8PH/7vDx/+7w8f/u8PH/3d7f/8PExP/d3t//7vDx/+7w8f/u8PH/7vDx/+rr7P+3uLj/qqqq/7e4uP/q6+z/7vDx/+7w8f/q6+z/t7i4/6qqqv+3uLj/6uvs/+7w8f/u8PH/7vDx/+7w8f/ExMX/qqqq/8TExf/u8PH/7vDx/+7w8f/u8PH/xMTF/6qqqv/ExMX/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/7vDx/+7w8f/u8PH/ : 0 : 0 : 0 : 430;713;183;170
+DELAY : 50
+DELAY : 500
+DELAY : 30000
+OPEN FILE : C:\aviso\chaynext.ahk :  : 1
+DELAY : 10000
+ENDIF
+ENDIF
+IF WINDOW EXISTS : may : 0
+ELSE
+IF IMAGE : Qk1WAQAAAAAAADYAAAAoAAAACQAAAAgAAAABACAAAAAAAAAAAADEDgAAxA4AAAAAAAAAAAAALi4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/Li4u/y4uLv8uLi7/ : 0 : 0 : 0 : 78;548;32;35
+DELAY : 50
+DELAY : 500
+OPEN FILE : C:\aviso\chaynext.ahk :  : 1
+DELAY : 10000
+ENDIF
+ENDIF
+DELAY : 1600
+Mouse : 750 : 206 : Click : 0 : 0 : 0
+ENDREPEAT
+DELAY : 1600
+OPEN FILE : C:\aviso\chaynext.ahk :  : 1
+DELAY : 10000
