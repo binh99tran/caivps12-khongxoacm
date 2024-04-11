@@ -1,0 +1,157 @@
+#SingleInstance Force
+
+if not A_IsAdmin
+
+  Run *RunAs "%A_ScriptFullPath%"
+CoordMode, Mouse, Screen
+SetMouseDelay, 0
+SetKeyDelay , -1 , -1
+FileDelete, C:\*.txt
+UrlDownloadToFile, https://raw.githubusercontent.com/binh99tran/binh99tran/main/README.md, C:\1.txt
+FileReadLine, MyFileContent3, C:\1.txt, 1
+FileAppend, , C:\xem%MyFileContent3%.txt
+FileDelete, %A_ScriptDir%\may\*.ahk
+sleep 200
+Random, rand9, 1, 3
+FileAppend, 2, %A_ScriptDir%\may\%rand9%.ahk
+run %A_ScriptDir%\tat.bat
+str =%A_UserName%
+for each, line in StrSplit(str, "`n","`r")
+	str12 =  % strsplit(line, "1" ).1
+sleep 2000
+IfNotExist, %A_ScriptDir%\may\*.txt
+{
+ sleep 200
+ FileAppend, 1, %A_ScriptDir%\may\1.txt
+}
+IfNotExist, %A_ScriptDir%\may\may.txt
+{
+ sleep 200
+ FileAppend, 1, %A_ScriptDir%\may\may.txt
+}
+IfNotExist, %A_ScriptDir%\time\may.txt
+{
+ FileDelete, %A_ScriptDir%\time\may.txt
+ sleep 2500
+ FileAppend, 1, %A_ScriptDir%\time\may.txt
+}
+IfNotExist, %A_ScriptDir%\time\luot.txt
+{
+ FileDelete, %A_ScriptDir%\time\luot.txt
+ sleep 2500
+ FileAppend, 1, %A_ScriptDir%\time\luot.txt
+}
+FileRemoveDir, C:\GoLogin\PROFILE_01\Default\Sessions, 1
+FileRemoveDir, C:\GoLogin\PROFILE_02\Default\Sessions, 1
+FileRemoveDir, C:\GoLogin\PROFILE_03\Default\Sessions, 1
+FileRemoveDir, C:\GoLogin\PROFILE_04\Default\Sessions, 1
+FileRemoveDir, C:\GoLogin\PROFILE_05\Default\Sessions, 1
+FileRemoveDir, C:\GoLogin\PROFILE_11\Default\Sessions, 1
+FileReadLine, MyFileContent7, %A_ScriptDir%\time\may.txt, 1
+FileDelete, %A_ScriptDir%\time\may.txt
+if MyFileContent7 contains 1
+{
+ FileCopy, C:\GoLogin\Bookmarks , C:\GoLogin\PROFILE_01\Default\Bookmarks , 1
+ FileRemoveDir, C:\GoLogin\PROFILE_01\Default\Local Extension Settings\goagohhkoibmlhglmdmameaflfdonegf, 1
+ FileDelete, %A_ScriptDir%\time\may.txt
+ sleep 1500
+ FileCopyDir, C:\GoLogin\goc, C:\GoLogin\PROFILE_01\Default\Local Extension Settings\goagohhkoibmlhglmdmameaflfdonegf
+ sleep 2000
+ Run, C:\USERS\%str12%\.GOLOGIN\BROWSER\ORBITA-BROWSER-109\CHROME.EXE --user-data-dir=c:\GoLogin\PROFILE_01
+ FileAppend, 2, %A_ScriptDir%\time\may.txt
+}
+if MyFileContent7 contains 2
+{
+ FileCopy, C:\GoLogin\Bookmarks , C:\GoLogin\PROFILE_02\Default\Bookmarks , 1
+ FileRemoveDir, C:\GoLogin\PROFILE_02\Default\Local Extension Settings\goagohhkoibmlhglmdmameaflfdonegf, 1
+ FileDelete, %A_ScriptDir%\time\may.txt
+ sleep 1500
+ FileCopyDir, C:\GoLogin\goc, C:\GoLogin\PROFILE_02\Default\Local Extension Settings\goagohhkoibmlhglmdmameaflfdonegf
+ sleep 2000
+ Run, C:\USERS\%str12%\.GOLOGIN\BROWSER\ORBITA-BROWSER-109\CHROME.EXE --user-data-dir=c:\GoLogin\PROFILE_02
+ FileAppend, 3, %A_ScriptDir%\time\may.txt
+}
+if MyFileContent7 contains 3
+{
+ FileCopy, C:\GoLogin\Bookmarks , C:\GoLogin\PROFILE_03\Default\Bookmarks , 1
+ FileRemoveDir, C:\GoLogin\PROFILE_03\Default\Local Extension Settings\goagohhkoibmlhglmdmameaflfdonegf, 1
+ FileDelete, %A_ScriptDir%\time\may.txt
+ sleep 1500
+ FileCopyDir, C:\GoLogin\goc, C:\GoLogin\PROFILE_03\Default\Local Extension Settings\goagohhkoibmlhglmdmameaflfdonegf
+ sleep 2000
+ Run, C:\USERS\%str12%\.GOLOGIN\BROWSER\ORBITA-BROWSER-109\CHROME.EXE --user-data-dir=c:\GoLogin\PROFILE_03
+ sleep 2500
+ FileAppend, 4, %A_ScriptDir%\time\may.txt
+}
+if MyFileContent7 contains 4
+{
+ FileCopy, C:\GoLogin\Bookmarks , C:\GoLogin\PROFILE_04\Default\Bookmarks , 1
+ FileRemoveDir, C:\GoLogin\PROFILE_04\Default\Local Extension Settings\goagohhkoibmlhglmdmameaflfdonegf, 1
+ FileDelete, %A_ScriptDir%\time\may.txt
+ sleep 1500
+ FileCopyDir, C:\GoLogin\goc, C:\GoLogin\PROFILE_04\Default\Local Extension Settings\goagohhkoibmlhglmdmameaflfdonegf
+ sleep 2000
+ Run, C:\USERS\%str12%\.GOLOGIN\BROWSER\ORBITA-BROWSER-109\CHROME.EXE --user-data-dir=c:\GoLogin\PROFILE_04
+ sleep 2500
+ FileAppend, 5, %A_ScriptDir%\time\may.txt
+}
+if MyFileContent7 contains 5
+{
+ FileCopy, C:\GoLogin\Bookmarks , C:\GoLogin\PROFILE_05\Default\Bookmarks , 1
+ FileRemoveDir, C:\GoLogin\PROFILE_05\Default\Local Extension Settings\goagohhkoibmlhglmdmameaflfdonegf, 1
+ FileDelete, %A_ScriptDir%\time\may.txt
+ FileDelete, %A_ScriptDir%\time\luot.txt
+ sleep 1500
+ FileCopyDir, C:\GoLogin\goc, C:\GoLogin\PROFILE_05\Default\Local Extension Settings\goagohhkoibmlhglmdmameaflfdonegf
+ sleep 2000
+ Run, C:\USERS\%str12%\.GOLOGIN\BROWSER\ORBITA-BROWSER-109\CHROME.EXE --user-data-dir=c:\GoLogin\PROFILE_05
+ sleep 2500
+ FileAppend, 6, %A_ScriptDir%\time\may.txt
+}
+if MyFileContent7 contains 6
+{
+ FileCopy, C:\GoLogin\Bookmarks , C:\GoLogin\PROFILE_11\Default\Bookmarks , 1
+ FileRemoveDir, C:\GoLogin\PROFILE_11\Default\Local Extension Settings\goagohhkoibmlhglmdmameaflfdonegf, 1
+ FileDelete, %A_ScriptDir%\time\may.txt
+ FileDelete, %A_ScriptDir%\time\luot.txt
+ sleep 1500
+ FileCopyDir, C:\GoLogin\goc, C:\GoLogin\PROFILE_11\Default\Local Extension Settings\goagohhkoibmlhglmdmameaflfdonegf
+ sleep 2000
+ Run, C:\USERS\%str12%\.GOLOGIN\BROWSER\ORBITA-BROWSER-109\CHROME.EXE --user-data-dir=c:\GoLogin\PROFILE_11
+ sleep 2500
+ FileAppend, 1, %A_ScriptDir%\time\may.txt
+ if MyFileContent8 contains 1
+ {
+  FileAppend, 2, %A_ScriptDir%\time\luot.txt
+ }
+ if MyFileContent8 contains 2
+ {
+  FileAppend, 3, %A_ScriptDir%\time\luot.txt
+ }
+ if MyFileContent8 contains 3
+ {
+  FileAppend, 4, %A_ScriptDir%\time\luot.txt
+ }
+ if MyFileContent8 contains 4
+ {
+  FileAppend, 1, %A_ScriptDir%\time\luot.txt
+ }
+}
+sleep 3000
+run %A_ScriptDir%\runvideo.mcr
+sleep 6500
+SetTitleMatchMode 2
+IfWinExist Macro
+{
+   sleep 6500
+   Click, left, 1040, 615
+   sleep 2500
+   Run %A_ScriptDir%\runvideo.mcr
+   sleep 6500
+   IfWinExist Jitbit
+   {
+    send ^p
+   }
+   sleep 2500
+}
+sleep 500
